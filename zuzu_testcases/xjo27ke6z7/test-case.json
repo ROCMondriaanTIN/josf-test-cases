@@ -2,7 +2,7 @@
   "steps" : null,
   "testStepGroups" : [ {
     "groupType" : 0,
-    "groupName" : "New descriptive group",
+    "groupName" : "zuzu_html_test",
     "testSteps" : [ {
       "version" : null,
       "result" : null,
@@ -444,7 +444,7 @@
   "dataDrivenStorageId" : null,
   "tags" : [ ],
   "metaData" : {
-    "lastModifiedDateTime" : "2022-10-03T12:05:37.410",
+    "lastModifiedDateTime" : "2022-10-10T11:34:55.605",
     "creationDateTime" : "2022-10-03T11:36:18.345",
     "lastSuccessfulRunDateTime" : null
   }
